@@ -26,6 +26,6 @@ python3 conway.py
 
 Mechanics of the game is explained here: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life.
 
-This version assumes a toroid (donute-shaped) structure on the field.
+This version assumes a toroid (donut-shaped) structure on the field.
 Initial generation is a random placement of live cells in the field.
 
