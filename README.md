@@ -21,3 +21,11 @@ Simply run the following command, which runs the only script in this repository:
 ```
 python3 conway.py
 ```
+
+# How does it work? 
+
+Mechanics of the game is explained here: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life.
+
+This version assumes a toroid (donute-shaped) structure on the field.
+Initial generation is a random placement of live cells in the field.
+
